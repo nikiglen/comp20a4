@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+song {
+	display: block;
+	font-family: Georgia, serif;
+	font-size: 1.2em;
+	margin: 20px 25px;
+}
+title {
+	display: block;
+	font-weight: bold;
+}
+artist {
+	display: block;
+	font-style: normal;
+}
+genre {
+	display: block;
+	font-style: italic;
+}
+year {
+	display: block;
+	font-style: normal;
+}

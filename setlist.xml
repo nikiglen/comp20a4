@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "setlist.css"?>
+<set>
+	<song>
+		<title>Tarova</title>
+		<artist>Snarky Puppy</artist>
+		<genre>Jazz Fusion</genre>
+		<year>2016</year>
+	</song>
+	<song>
+		<title>Chameleon</title>
+		<artist>Herbie Hancock</artist>
+		<genre>Jazz</genre>
+		<year>1973</year>
+	</song>
+	<song>
+		<title>Spain</title>
+		<artist>Chick Corea</artist>
+		<genre>Bop</genre>
+		<year>1973</year>
+	</song>
+	<song>
+		<title>Red Sand</title>
+		<artist>Bill Laurance</artist>
+		<genre>Jazz</genre>
+		<year>2015</year>
+	</song>
+	<song>
+		<title>Moanin'</title>
+		<artist>Art Blakey and the Jazz Messengers</artist>
+		<genre>Jazz</genre>
+		<year>1959</year>
+	</song>
+	<song>
+		<title>Cinnamon Tree</title>
+		<artist>Esperanza Spalding</artist>
+		<genre>Jazz</genre>
+		<year>2012</year>
+	</song>
+	<song>
+		<title>No Mystery</title>
+		<artist>Return to Forever</artist>
+		<genre>Jazz Fusion</genre>
+		<year>1975</year>
+	</song>
+	<song>
+		<title>Madiba</title>
+		<artist>Shaun Martin</artist>
+		<genre>Jazz</genre>
+		<year>2015</year>
+	</song>
+	<song>
+		<title>Birdland</title>
+		<artist>Weather Report</artist>
+		<genre>Jazz</genre>
+		<year>1977</year>
+	</song>
+	<song>
+		<title>Quartermaster</title>
+		<artist>Snarky Puppy</artist>
+		<genre>Jazz</genre>
+		<year>2012</year>
+	</song>
+</set>
